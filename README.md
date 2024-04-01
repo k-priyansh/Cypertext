@@ -36,7 +36,7 @@ This will prompt you to enter the key used for encryption. Once the decryption i
 <strong>Encrypting text:</strong>
 
 ```
-python3 cypertext.py
+$ python3 cypertext.py
 1. encrypt
 2. decrypt
 enter options: 1
@@ -47,7 +47,7 @@ Encrypted text: b'gAAAAABmCrwyRBX7fEfIesReieR5xqhmCWNGls4Aep5Lm2UBJS7mF8-NBML_E_
 <strong>Decrypting text:</strong>
 
 ```
-python3 cypertext.py
+$ python3 cypertext.py
 1. encrypt
 2. decrypt
 enter options: 2
