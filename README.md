@@ -1,4 +1,4 @@
-## Cypertext
+## <a href="https://github.com/k-priyansh/Cypertext" style="text-decoration:none">Cypertext</a>
 Cypertext is a Python-based tool for encrypting and decrypting text using symmetric key cryptography. It provides a simple command-line interface for users to encrypt their sensitive text data and generate keys securely.
 
 <img src="img/1. interface.png">
