@@ -1,6 +1,8 @@
 ## Cypertext
 Cypertext is a Python-based tool for encrypting and decrypting text using symmetric key cryptography. It provides a simple command-line interface for users to encrypt their sensitive text data and generate keys securely.
 
+<img src="img/1. interface.png">
+
 ### Features
 - Encrypt plaintext into ciphertext using a symmetric key.
 - Decrypt ciphertext back to plaintext using the same key.
@@ -14,6 +16,8 @@ pip install cryptography
 ```
 
 ###Usage
+
+
 Encrypting Text
 To encrypt text, use the following command:
 
